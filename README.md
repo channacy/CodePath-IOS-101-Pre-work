@@ -4,7 +4,7 @@ Submitted by: **Channacy Un**
 
 **Welcome App** is an app that...changes background and text color when you click on the button
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
@@ -16,7 +16,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Demo](https://github.com/user-attachments/assets/fb5a9f00-74c5-42da-a486-befa727c7bde)
+![Demo](https://github.com/user-attachments/assets/458aa5b0-9f77-4451-b6f3-12867aaf7268)
+
 
 ## App Brainstorming (Step 4)
 
