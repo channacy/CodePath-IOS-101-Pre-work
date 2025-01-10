@@ -21,11 +21,17 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+**List of your favorite 3-5 applications and identify 2-3 features:**
+- Slack (multiple text channels with large number of people, fast loading time for large workspaces)
+- Uber (real-time tracking of driver, estimated time of arrival feature, intuitive UI layout for displaying driver information)
+- Doordash (restaurant rating system, payment method with discounts, recommendation system)
 
+**Think of an app idea that you would like to build.**
+I would like to build an app acting as a drone service for those who wants to deliver small packages and items to a nearby address within an area. This app will be able to track the drone's path and estimated time of arrival. It will also have authentication for the user so if a person damages or attempts to steal the drone, the identify of the user will be held accountable. Moreover, the drone service will use Google Maps for the layout and be able to handle long distances up to 3 miles while carrying at most 10 pounds worth of items. During the app's initial stage, the target audience will be users who want to order food but do not want to travel outside or have busy lives. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges encountered while building the Welocome app was adding the image. Many sources online were not straightfoward or led to hours of tutorial to achieve one simple task. Another challenge, was finding the correct "Assistant" button to add functionality to the UI button. This long awhile to find but after finding the GIF hidden underneath the triangular bullet point, this helped and I was able to successfully implement the task. Developing in mobile development is also very different from web development since there was a different project layout. If accepted into the course, I hope to learn more about a storybook app vs. a non-storybook app and why Swift became the official IOS programming language over Objective-C.
 
 ## License
 
